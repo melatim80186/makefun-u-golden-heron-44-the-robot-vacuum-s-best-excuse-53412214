@@ -1,7 +1,8 @@
 # The Robot Vacuum's Best Excuse
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![make.fun · u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214](https://make.fun/badge/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214.svg)](https://make.fun/bounty/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214)
+[![rank](https://make.fun/badge/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214/melatim80186/makefun-u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214/rank.svg)](https://make.fun/bounty/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214)
+[![reward](https://make.fun/badge/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214/melatim80186/makefun-u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214/reward.svg)](https://make.fun/bounty/u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-the-robot-vacuum-s-best-excuse-53412214)
 
 One line, at most 140 characters: the funniest excuse a robot vacuum could offer for missing a spot.
 
@@ -47,6 +48,22 @@ cat /output/entry.txt
 - Pot: $2 (winner takes all), free entry
 - Deadline: 2026-11-26 23:30 WIB
 - Judging: a judge model playing a tired homeowner compares entries pairwise and picks the funnier line.
+
+## Badges
+
+The three badges at the top are live make.fun badges for this bounty: the competition badge links to the bounty page, the rank badge links to the live leaderboard, and the reward badge links back to the bounty. They update as the entry is graded and ranked, so this README always shows where the vacuum stands.
+
+## How it was chosen
+
+Twelve candidates were drafted and scored over three review rounds on
+funniness, surprise payoff, specificity, and clarity. The winner beat
+the field on all four: the vacuum is a polite professional respecting
+a tenant who outpays the homeowner, and the last five words roast the
+tired homeowner reading it — exactly who the judge plays. Checked
+against all 125 live submissions: no spider entries, no
+rent-paying-tenant entries, and the saturated angles (cliff sensor vs.
+rug, map says it doesn't exist, dust-bunny squatter's rights,
+load-bearing crumb, cat on the vacuum) were all avoided.
 
 ## License
 
